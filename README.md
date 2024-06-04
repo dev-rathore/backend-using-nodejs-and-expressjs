@@ -1,4 +1,4 @@
-# backend-using-nodejs-and-expressjs
+# Backend using NodeJS and ExpressJS
 
 ## Node Version Required
 - `21.7.1`
