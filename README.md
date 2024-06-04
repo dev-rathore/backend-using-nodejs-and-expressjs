@@ -8,3 +8,8 @@
 - `PORT=8080`
 - `WEBSOCKET_PORT=8081`
 - `MONGODB_CONNECTION_URI`
+
+## Commands
+- To start the project on Development - `npm run dev`
+- To build the project files - `npm run build`
+- To start the proejct on Production - `npm run serve`
